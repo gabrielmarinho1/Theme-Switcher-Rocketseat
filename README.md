@@ -7,4 +7,6 @@
 <li>Alterar o tema da página ao clicar no toggle</li>
 <li>Ter uma transição entre um ícone e outro</li>
 <li>Adicionar textos e alterar a cor conforme o tema alterne entre ligth e dark</li>
-</ul
+</ul>
+<h1>Resultado:</h1>
+<a href="https://gabrielmarinho1.github.io/Theme-Switcher-Rocketseat/">https://gabrielmarinho1.github.io/Theme-Switcher-Rocketseat/</a>
